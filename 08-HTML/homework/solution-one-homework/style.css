@@ -1,0 +1,36 @@
+body{
+	background-image: url('https://jooinn.com/images/blur-restaurant-2.png');
+}
+
+.container {
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.divClass {
+	text-align: center;
+	flex-basis: 100%;
+	color: white;
+}
+
+h1 {
+	color: blue;
+}
+
+img {
+	width:  400px;
+	height: auto;
+}
+
+#thirdDiv {
+	height: 600px;
+	width: 500px;
+	background-color: yellow;
+	padding: 50px;
+	border: 1px solid black;
+	margin: auto;
+}
+
+#spanID {
+	margin: 50px;
+}
